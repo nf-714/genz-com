@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { ArrowRightIcon } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function HeroSection() {
   return (
@@ -62,19 +63,21 @@ export default function HeroSection() {
               <br />
               <h2 className="right-to-center mb-5 tracking-widest	 text-2xl md:text-4xl lg:text-5xl lg:font-extralight lg:text-wrap font-bold text-zinc-900 dark:text-gray-100 sm:text-[40px]/[48px]">
                 Level Up Your Look with{" "}
-                <span className="text-indigo-700 font-extrabold">
+                <span className="text-indigo-900  dark:text-indigo-600 font-extrabold">
                   Artistic Comfort Apparel
                 </span>
               </h2>
               <p className="right-to-center text-gray-500 mb-8 text-base dark:text-gray-300">
                 LWSkart: Premium casual wear made for living life on the go
               </p>
-              <Button
-                variant="outline"
-                className="animate-lower bg-indigo-700 text-indigo-200 w-40 border-primary-green hover:bg-indigo-500"
-              >
-                Get Started
-              </Button>
+              <Link href="/product">
+                <Button
+                  variant="outline"
+                  className="animate-lower bg-indigo-700 text-indigo-200 w-40 border-primary-green hover:bg-indigo-500"
+                >
+                  Get Started
+                </Button>
+              </Link>
             </div>
           </div>
         </div>

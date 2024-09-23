@@ -80,5 +80,10 @@ const config: Config = {
     require("tailwindcss-animate"),
     require("@tailwindcss/aspect-ratio"),
   ],
+  safelist: [
+    {
+      pattern: /bg-/,
+    },
+  ],
 };
 export default config;

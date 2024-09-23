@@ -10,7 +10,7 @@ export default function Navbar() {
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center justify-center space-x-8">
           <Link href="/" className="flex items-center space-x-2">
-            <span className="text-blue-600 dark:text-blue-500 font-extrabold">
+            <span className="text-indigo-900  dark:text-indigo-600 font-extrabold">
               Artistic-Z
             </span>
           </Link>
