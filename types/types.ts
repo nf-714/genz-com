@@ -1,7 +1,17 @@
+export interface IUser {
+  name: string;
+  email: string;
+  password?: string | null;
+  emailVerified?: boolean;
+  image?: string;
+  role?: "customer" | "admin";
+  phone?: string;
+  shippingAddress?: string;
+  billingAddress?: string;
+}
+
 export interface IProduct {
-  _id: {
-    $oid: string;
-  };
+  id: string;
   name: string;
   description: string;
   category: string;

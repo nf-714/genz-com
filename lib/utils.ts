@@ -1,15 +1,11 @@
-import { products } from "@/data/product";
+/* eslint-disable @typescript-eslint/no-unused-vars */
+import { IProduct } from "@/types/types";
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
-
-export const findProductById = (id: string) => {
-  const product = products.find((product) => product._id.$oid === id);
-  return product;
-};
 
 export const discountedPriceValue = (price: number, discount: number) => {
   const roundedPrice = Math.round(price);
@@ -28,4 +24,25 @@ export const stockCalculation = (stock: number) => {
   } else {
     return "Low Stock";
   }
+};
+
+export const generateArrayConvertedIDForMultipleObjID = (
+  array_obj: IProduct[]
+) => {
+  const convertor = array_obj
+    .map((event: IProduct) => {
+      return {
+        ...event,
+        id: event._id.toString(),
+      };
+    })
+    .map((event: IProduct) => {
+      const { _id, ...rest } = event;
+      return rest;
+    });
+  return convertor;
+};
+
+export const stringToSlung = (name: string) => {
+  return name.toLowerCase().replace(/ /g, "-");
 };

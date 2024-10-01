@@ -1,149 +1,116 @@
+import { Button } from "@/components/ui/button";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
+import {
+  Sheet,
+  SheetClose,
+  SheetContent,
+  SheetDescription,
+  SheetFooter,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from "@/components/ui/sheet";
+import { Filter } from "lucide-react";
+function FilterButton({ label, items }: { label: string; items: string[] }) {
+  return (
+    <Select>
+      <SelectTrigger className="w-[180px] bg-slate-200 text-zinc-900 dark:bg-black dark:text-white">
+        <SelectValue placeholder={label} />
+      </SelectTrigger>
+      <SelectContent>
+        {items.map((item, index) => (
+          <SelectItem key={index} value={item}>
+            {item}
+          </SelectItem>
+        ))}
+      </SelectContent>
+    </Select>
+  );
+}
+
 export default function ProductFilter() {
   return (
-    <div className="col-span-1 bg-darker px-4 pb-6 shadow rounded overflow-hidden hidden md:block">
-      <div className="divide-y divide-gray-200 space-y-5">
-        <div>
-          <h3 className="text-xl text-gray-800 mb-3 uppercase font-medium">
-            Categories
-          </h3>
-          <div className="space-y-2">
-            <div className="flex items-center">
-              <input
-                type="checkbox"
-                name="cat-1"
-                id="cat-1"
-                className="text-primary focus:ring-0 rounded-sm cursor-pointer"
-              />
-              <label
-                htmlFor="cat-1"
-                className="text-gray-600 ml-3 cusror-pointer"
-              >
-                Bedroom
-              </label>
-              <div className="ml-auto text-gray-600 text-sm">(15)</div>
-            </div>
-            <div className="flex items-center">
-              <input
-                type="checkbox"
-                name="cat-2"
-                id="cat-2"
-                className="text-primary focus:ring-0 rounded-sm cursor-pointer"
-              />
-              <label
-                htmlFor="cat-2"
-                className="text-gray-600 ml-3 cusror-pointer"
-              >
-                Sofa
-              </label>
-              <div className="ml-auto text-gray-600 text-sm">(9)</div>
-            </div>
-            <div className="flex items-center">
-              <input
-                type="checkbox"
-                name="cat-3"
-                id="cat-3"
-                className="text-primary focus:ring-0 rounded-sm cursor-pointer"
-              />
-              <label
-                htmlFor="cat-3"
-                className="text-gray-600 ml-3 cusror-pointer"
-              >
-                Office
-              </label>
-              <div className="ml-auto text-gray-600 text-sm">(21)</div>
-            </div>
-            <div className="flex items-center">
-              <input
-                type="checkbox"
-                name="cat-4"
-                id="cat-4"
-                className="text-primary focus:ring-0 rounded-sm cursor-pointer"
-              />
-              <label
-                htmlFor="cat-4"
-                className="text-gray-600 ml-3 cusror-pointer"
-              >
-                Outdoor
-              </label>
-              <div className="ml-auto text-gray-600 text-sm">(10)</div>
-            </div>
+    <section className="container mx-auto px-4 py-12 md:py-16 lg:py-2">
+      <div className="text-center mb-12">
+        <h1 className="text-4xl text-indigo-500 dark:text-indigo-400 md:text-5xl font-bold mb-4">
+          New Arrivals
+        </h1>
+        <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          Thoughtfully designed objects for the workspace, home, and travel.
+        </p>
+      </div>
+
+      <div className="flex flex-row flex-wrap justify-between items-center gap-4">
+        <div className="w-full flex justify-between md:w-auto">
+          <FilterButton
+            label="Sort"
+            items={["Highest to lowest", "Lowest to highest"]}
+          />
+          <div className="flex lg:hidden md:hidden">
+            <Sheet>
+              <SheetTrigger>
+                <Filter />
+                Filter
+              </SheetTrigger>
+              <SheetContent className="bg-black">
+                <SheetHeader>
+                  <SheetTitle>Edit profile</SheetTitle>
+                  <SheetDescription>Filter</SheetDescription>
+                </SheetHeader>
+                <div className="grid gap-4 py-4">
+                  <div className="grid grid-cols-4 items-center place-content-center gap-4">
+                    <FilterButton
+                      label="Category"
+                      items={["T-Shirt", "Hoodie'24", "Joggers", "Sweatshirt"]}
+                    />
+                  </div>
+                  <div className="grid grid-cols-4 items-center gap-4">
+                    <FilterButton
+                      label="Sizes"
+                      items={["S", "M", "L", "XL", "XXL"]}
+                    />
+                  </div>
+                  <div className="grid grid-cols-4 items-center gap-4">
+                    <FilterButton
+                      label="Color"
+                      items={[
+                        "Red",
+                        "Blue",
+                        "Green",
+                        "Yellow",
+                        "Black",
+                        "White",
+                      ]}
+                    />
+                  </div>
+                </div>
+                <SheetFooter>
+                  <SheetClose asChild>
+                    <Button type="submit">Save changes</Button>
+                  </SheetClose>
+                </SheetFooter>
+              </SheetContent>
+            </Sheet>
           </div>
         </div>
-        <div className="pt-4">
-          <h3 className="text-xl text-gray-800 mb-3 uppercase font-medium">
-            Price
-          </h3>
-          <div className="mt-4 flex items-center">
-            <input
-              type="text"
-              name="min"
-              id="min"
-              className="w-full border-gray-300 focus:border-primary rounded focus:ring-0 px-3 py-1 text-gray-600 shadow-sm"
-              placeholder="min"
-            />
-            <span className="mx-3 text-gray-500">-</span>
-            <input
-              type="text"
-              name="max"
-              id="max"
-              className="w-full border-gray-300 focus:border-primary rounded focus:ring-0 px-3 py-1 text-gray-600 shadow-sm"
-              placeholder="max"
-            />
-          </div>
-        </div>
-        <div className="pt-4">
-          <h3 className="text-xl text-gray-800 mb-3 uppercase font-medium">
-            size
-          </h3>
-          <div className="flex items-center gap-2">
-            <div className="size-selector">
-              <input type="radio" name="size" id="size-xs" className="hidden" />
-              <label
-                htmlFor="size-xs"
-                className="text-xs border border-gray-200 rounded-sm h-6 w-6 flex items-center justify-center cursor-pointer shadow-sm text-gray-600"
-              >
-                XS
-              </label>
-            </div>
-            <div className="size-selector">
-              <input type="radio" name="size" id="size-sm" className="hidden" />
-              <label
-                htmlFor="size-sm"
-                className="text-xs border border-gray-200 rounded-sm h-6 w-6 flex items-center justify-center cursor-pointer shadow-sm text-gray-600"
-              >
-                S
-              </label>
-            </div>
-            <div className="size-selector">
-              <input type="radio" name="size" id="size-m" className="hidden" />
-              <label
-                htmlFor="size-m"
-                className="text-xs border border-gray-200 rounded-sm h-6 w-6 flex items-center justify-center cursor-pointer shadow-sm text-gray-600"
-              >
-                M
-              </label>
-            </div>
-            <div className="size-selector">
-              <input type="radio" name="size" id="size-l" className="hidden" />
-              <label
-                htmlFor="size-l"
-                className="text-xs border border-gray-200 rounded-sm h-6 w-6 flex items-center justify-center cursor-pointer shadow-sm text-gray-600"
-              >
-                L
-              </label>
-            </div>
-            <div className="size-selector">
-              <input type="radio" name="size" id="size-xl" className="hidden" />
-              <label
-                htmlFor="size-xl"
-                className="text-xs border border-gray-200 rounded-sm h-6 w-6 flex items-center justify-center cursor-pointer shadow-sm text-gray-600"
-              >
-                XL
-              </label>
-            </div>
-          </div>
+        <div className="hidden md:flex lg:flex flex-wrap gap-4 justify-center md:justify-end">
+          <FilterButton
+            label="Category"
+            items={["T-Shirt", "Hoodie'24", "Joggers", "Sweatshirt"]}
+          />
+          <FilterButton
+            label="Color"
+            items={["Red", "Blue", "Green", "Yellow", "Black", "White"]}
+          />
+          <FilterButton label="Sizes" items={["S", "M", "L", "XL", "XXL"]} />
         </div>
       </div>
-    </div>
+    </section>
   );
 }

@@ -4,8 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function ProductCard({ product }: { product: IProduct }) {
-  const { _id, name, image, price, category, discount, stock } = product;
-  const id = _id.$oid;
+  const { id, name, image, price, category, discount, stock } = product;
 
   const { newPrice } = discountedPriceValue(price, discount);
   const status = stockCalculation(stock);
@@ -15,7 +14,7 @@ export default function ProductCard({ product }: { product: IProduct }) {
         <div className="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
           <Image
             src={image[0]}
-            alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
+            alt={name}
             className="h-full w-full object-cover object-center"
             width={700}
             height={700}
@@ -24,7 +23,7 @@ export default function ProductCard({ product }: { product: IProduct }) {
       </Link>
 
       <h3 className="mt-6 text-sm flex justify-between cursor-default">
-        <span className="text-green ">
+        <span className="text-slate-700 dark:text-indigo-400">
           <Link
             href={`/category/${category.toLowerCase()}`}
             className="hover:underline"
@@ -32,15 +31,25 @@ export default function ProductCard({ product }: { product: IProduct }) {
             {category}
           </Link>
         </span>
-        <span className={`${stock > 5 ? "text-emerald-300" : "text-red-500"}`}>
+        <span
+          className={`${
+            stock > 5
+              ? "text-emerald-600 font-semibold dark:text-emerald-500"
+              : "text-red-500"
+          }`}
+        >
           {status}
         </span>
       </h3>
       <Link href={`/product/${id}`} className="flex justify-between">
-        <p className="text-base font-semibold text-slate-200">{name}</p>
+        <p className="text-base font-semibold text-indigo-500 dark:text-slate-200">
+          {name}
+        </p>
         {/* Discount dite hbe */}
         <div className="flex justify-center items-center">
-          <p className="text-base text-right text-slate-200">${newPrice}</p>
+          <p className="text-base text-right text-slate-700  dark:text-slate-200">
+            ${newPrice}
+          </p>
         </div>
       </Link>
     </div>

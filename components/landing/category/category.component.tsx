@@ -23,7 +23,7 @@ export default function Category({
               {category}
             </a>
           </h3>
-          <p className="mt-1 text-l font-bold text-indigo-900  dark:text-indigo-600">
+          <p className="mt-1 text-l font-bold text-indigo-600  dark:text-indigo-500">
             {title}
           </p>
         </div>

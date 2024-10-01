@@ -1,4 +1,5 @@
 import { ThemeProvider } from "@/components/landing/theme/theme-provider.component";
+import { Toaster } from "@/components/ui/toaster";
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "../globals.css";
@@ -36,6 +37,7 @@ export default function AdminRootLayout({
           disableTransitionOnChange
         >
           {children}
+          <Toaster />
         </ThemeProvider>
       </body>
     </html>
