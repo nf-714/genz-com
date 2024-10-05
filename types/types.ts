@@ -11,7 +11,23 @@ export interface IUser {
 }
 
 export interface IProduct {
-  id: string;
+  id?: string;
+  name: string;
+  description: string;
+  category: string;
+  total_reviews: number;
+  avg_rating: number;
+  price: number;
+  discount: number;
+  stock: number;
+  purchase_count: number;
+  color: string;
+  size: string[];
+  image: string[];
+}
+
+export interface IMongoProduct {
+  _id: string;
   name: string;
   description: string;
   category: string;

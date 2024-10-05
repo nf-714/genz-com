@@ -44,7 +44,7 @@ export default function SignUpFormComponent() {
     const result = await registerUser(data);
     if (result.success) {
       toast({
-        variant: "outline",
+        variant: "default",
         title: result.success,
       });
     }

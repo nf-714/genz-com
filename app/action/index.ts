@@ -10,6 +10,7 @@ import { LoginSchema } from "@/schemas";
 
 import { createUser, findUser } from "@/queries/user/user.queries";
 import { SignupSchema } from "@/schemas";
+import { IMongoProduct } from "@/types/types";
 import { z } from "zod";
 
 export const signInWithGooge = async () => {
@@ -28,7 +29,9 @@ export const signOutAction = async () => {
 export const getProducts = async () => {
   const products = await getAllProducts();
   if (products) {
-    return generateArrayConvertedIDForMultipleObjID(products);
+    return generateArrayConvertedIDForMultipleObjID(
+      products as IMongoProduct[]
+    );
   } else {
     // Handle the case where products is undefined
     return []; // or whatever is appropriate in this case

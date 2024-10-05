@@ -35,11 +35,12 @@ export default function LoginFormComponent() {
   });
 
   const onSubmit = async (data: z.infer<typeof LoginSchema>) => {
-    const result = await loginUser(data);
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const result: any = await loginUser(data);
     console.log("FINAL RESULT", result);
     if (result.success) {
       toast({
-        variant: "outline",
+        variant: "default",
         title: result.success,
       });
     }

@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { IProduct } from "@/types/types";
+import { IMongoProduct, IProduct } from "@/types/types";
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 
@@ -27,16 +27,16 @@ export const stockCalculation = (stock: number) => {
 };
 
 export const generateArrayConvertedIDForMultipleObjID = (
-  array_obj: IProduct[]
-) => {
+  array_obj: IMongoProduct[]
+): IProduct[] => {
   const convertor = array_obj
-    .map((event: IProduct) => {
+    .map((event: IMongoProduct) => {
       return {
         ...event,
         id: event._id.toString(),
       };
     })
-    .map((event: IProduct) => {
+    .map((event: IMongoProduct) => {
       const { _id, ...rest } = event;
       return rest;
     });

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import clientPromise from "@/db/adapter-mongodb";
 import { findUser } from "@/queries/user/user.queries";
 import { LoginSchema } from "@/schemas";
@@ -12,13 +13,19 @@ const credentialProvider = {
     email: {},
     password: {},
   },
-  async authorize(credentials: unknown) {
+  async authorize(credentials: {
+    email: string;
+    password: string;
+  }): Promise<any> {
     const validatedFields = LoginSchema.safeParse(credentials);
     if (validatedFields.success) {
       const user = await findUser(credentials.email);
       if (!user || !user.password) return null;
 
-      const passwordMatch = await bcrypt.compare(password, user.password);
+      const passwordMatch = await bcrypt.compare(
+        credentials.password,
+        user.password
+      );
 
       if (passwordMatch) return user;
 
@@ -28,7 +35,7 @@ const credentialProvider = {
 };
 
 export const { auth, handlers, signIn, signOut } = NextAuth({
-  providers: [google, CredentialsProvider(credentialProvider)],
+  providers: [google, CredentialsProvider(credentialProvider as any)],
   adapter: MongoDBAdapter(clientPromise),
   session: {
     strategy: "jwt",
