@@ -1,844 +1,764 @@
- [
+[
   {
-    
-    name: "Guardian Wings Relaxed",
-    description:
-      "Command the skies with our Guardian Wings T-shirt, featuring majestic wings that embody protection and guidance, inspiring confidence and resilience. \n \n Relaxed Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Dove print. The term relaxed refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look. ",
-    category: "T-Shirts",
-    total_reviews: 10,
-    avg_rating: 4.8,
-    price: 24.99,
-    discount: 20,
-    stock: 50,
-    purchase_count: 120,
-    color: "navy-blue",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Guardian Wings Relaxed",
+    "description": "Command the skies with our Guardian Wings T-shirt, featuring majestic wings that embody protection and guidance, inspiring confidence and resilience. \n \n Relaxed Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Dove print. The term relaxed refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look. ",
+    "category": "T-Shirts",
+    "total_reviews": 10,
+    "avg_rating": 4.8,
+    "price": 24.99,
+    "discount": 20,
+    "stock": 50,
+    "purchase_count": 120,
+    "color": "navy-blue",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/NavyWingsPhoto_7.jpg?v=1713529921&width=700",
       "https://overlays.co/cdn/shop/files/NavyWingsPhoto_2.jpg?v=1713529921&width=700",
       "https://overlays.co/cdn/shop/files/NavyWingsPhoto_6.jpg?v=1713529921&width=700",
-      "https://overlays.co/cdn/shop/files/NavyWingsPhoto_4.jpg?v=1713529921&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/NavyWingsPhoto_4.jpg?v=1713529921&width=700"
+    ]
   },
   {
-    
-    name: "The Yellow Bloom",
-    description:
-      "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed Experience the metamorphosis of change and freedom through our exclusive marigold design, where each petal whispers tales of liberation and transformation, adorning your t-shirt with unrivalled uniqueness.",
-    category: "T-Shirts",
-    total_reviews: 25,
-    avg_rating: 4.5,
-    price: 19.99,
-    discount: 20,
-    stock: 100,
-    purchase_count: 90,
-    color: "gold-yellow",
-    size: ["XXS", "S", "M", "L", "XL", "2XL"],
-    image: [
+    "name": "The Yellow Bloom",
+    "description": "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed Experience the metamorphosis of change and freedom through our exclusive marigold design, where each petal whispers tales of liberation and transformation, adorning your t-shirt with unrivalled uniqueness.",
+    "category": "T-Shirts",
+    "total_reviews": 25,
+    "avg_rating": 4.5,
+    "price": 19.99,
+    "discount": 20,
+    "stock": 100,
+    "purchase_count": 90,
+    "color": "gold-yellow",
+    "size": ["XXS", "S", "M", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/BeigeFlowersPhoto_1.jpg?v=1712329316&width=700",
       "https://overlays.co/cdn/shop/files/BeigeFlowersPhoto_2.jpg?v=1712329316&width=700",
       "https://overlays.co/cdn/shop/files/BeigeFlowersPhoto_5.jpg?v=1712329316&width=700",
-      "https://overlays.co/cdn/shop/files/BeigeFlowersPhoto_6.jpg?v=1712329316&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/BeigeFlowersPhoto_6.jpg?v=1712329316&width=700"
+    ]
   },
   {
-    
-    name: "The Wild",
-    description:
-      "Where tigers roam, hearts beat wild. Find your roar. This tee features a magnificent tiger, a call to the wild, urging you to break free and chase your dreams with untamed passion. \n \n Relaxed fit t-shirt in black with a round neck rib and short sleeves. Contrast front and back HD and puff print in Dove print.",
-    category: "T-Shirts",
-    total_reviews: 8,
-    avg_rating: 4.9,
-    price: 29.99,
-    discount: 20,
-    stock: 20,
-    purchase_count: 100,
-    color: "white",
-    size: ["XXS", "S", "M", "L", "XL", "2XL"],
-    image: [
+    "name": "The Wild",
+    "description": "Where tigers roam, hearts beat wild. Find your roar. This tee features a magnificent tiger, a call to the wild, urging you to break free and chase your dreams with untamed passion. \n \n Relaxed fit t-shirt in black with a round neck rib and short sleeves. Contrast front and back HD and puff print in Dove print.",
+    "category": "T-Shirts",
+    "total_reviews": 8,
+    "avg_rating": 4.9,
+    "price": 29.99,
+    "discount": 20,
+    "stock": 20,
+    "purchase_count": 100,
+    "color": "white",
+    "size": ["XXS", "S", "M", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/GreywildPhoto_5.jpg?v=1713525847&width=700",
       "https://overlays.co/cdn/shop/files/GreywildPhoto_4.jpg?v=1713525847&width=700",
       "https://overlays.co/cdn/shop/files/GreywildPhoto_3.jpg?v=1713525847&width=700",
-      "https://overlays.co/cdn/shop/files/GreywildPhoto_2.jpg?v=1713525847&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/GreywildPhoto_2.jpg?v=1713525847&width=700"
+    ]
   },
   {
-    
-    name: "The Beast",
-    description:
-      "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Explore print.",
-    category: "T-Shirts",
-    total_reviews: 15,
-    avg_rating: 4.2,
-    price: 22.99,
-    discount: 20,
-    stock: 75,
-    purchase_count: 100,
+    "name": "The Beast",
+    "description": "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Explore print.",
+    "category": "T-Shirts",
+    "total_reviews": 15,
+    "avg_rating": 4.2,
+    "price": 22.99,
+    "discount": 20,
+    "stock": 75,
+    "purchase_count": 100,
 
-    color: "black",
-    size: ["S", "M", "L", "XL", "2XL"],
-    image: [
+    "color": "black",
+    "size": ["S", "M", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/9DBCD79F-FE38-4BC2-B021-BC8510084D97.png?v=1711365349&width=700",
       "https://overlays.co/cdn/shop/files/IMG_1201.jpg?v=1711365348&width=700",
       "https://overlays.co/cdn/shop/files/4_7d118480-d0db-4e4e-80ad-5653dfa7ee0d.png?v=1713960025&width=700",
-      "https://overlays.co/cdn/shop/files/IMG_1201.jpg?v=1711365348&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/IMG_1201.jpg?v=1711365348&width=700"
+    ]
   },
   {
-    
-    name: "Free Spirit",
-    description:
-      "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in orange with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Free Spirit print.",
-    category: "T-Shirts",
-    total_reviews: 32,
-    avg_rating: 4.7,
-    price: 17.99,
-    purchase_count: 113,
-    discount: 20,
-    stock: 120,
-    color: "orange",
-    size: ["S", "M", "L", "XL", "2XL"],
-    image: [
+    "name": "Free Spirit",
+    "description": "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in orange with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Free Spirit print.",
+    "category": "T-Shirts",
+    "total_reviews": 32,
+    "avg_rating": 4.7,
+    "price": 17.99,
+    "purchase_count": 113,
+    "discount": 20,
+    "stock": 120,
+    "color": "orange",
+    "size": ["S", "M", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/products/CopyofDSC01567.jpg?v=1680197290&width=700",
       "https://overlays.co/cdn/shop/products/CopyofDSC01559.jpg?v=1680535051&width=700",
       "https://overlays.co/cdn/shop/products/CopyofDSC01573.jpg?v=1680521514&width=600",
-      "https://overlays.co/cdn/shop/products/CopyofDSC01569.jpg?v=1680521514&width=700",
-    ],
+      "https://overlays.co/cdn/shop/products/CopyofDSC01569.jpg?v=1680521514&width=700"
+    ]
   },
   {
-    
-    name: "Black Arc With Rexin Pocket",
-    description:
-      "Sleek Minimalism: The Black Arc Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
-    category: "T-Shirts",
-    total_reviews: 4,
-    avg_rating: 5,
-    price: 27.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 80,
-    color: "black",
-    size: ["S", "M", "L", "XL", "2XL"],
-    image: [
+    "name": "Black Arc With Rexin Pocket",
+    "description": "Sleek Minimalism: The Black Arc Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
+    "category": "T-Shirts",
+    "total_reviews": 4,
+    "avg_rating": 5,
+    "price": 27.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 80,
+    "color": "black",
+    "size": ["S", "M", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/OrangePacketPhoto_8.jpg?v=1713005027&width=700",
       "https://overlays.co/cdn/shop/files/OrangePacketPhoto_7.jpg?v=1713005027&width=700",
       "https://overlays.co/cdn/shop/files/OrangePacketPhoto_5.jpg?v=1713005027&width=700",
-      "https://overlays.co/cdn/shop/files/OrangePacketPhoto_4.jpg?v=1713005027&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/OrangePacketPhoto_4.jpg?v=1713005027&width=700"
+    ]
   },
   {
-    
-    name: "Blaze",
-    description:
-      "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in beige with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Blaze print.",
-    category: "T-Shirts",
-    total_reviews: 18,
-    avg_rating: 4.3,
-    price: 21.99,
-    discount: 20,
-    stock: 80,
-    purchase_count: 70,
+    "name": "Blaze",
+    "description": "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in beige with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Blaze print.",
+    "category": "T-Shirts",
+    "total_reviews": 18,
+    "avg_rating": 4.3,
+    "price": 21.99,
+    "discount": 20,
+    "stock": 80,
+    "purchase_count": 70,
 
-    color: "purple",
-    size: ["S", "M", "L", "XL", "2XL"],
-    image: [
+    "color": "purple",
+    "size": ["S", "M", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/Lavender.png?v=1713029603&width=700",
       "https://overlays.co/cdn/shop/files/Lavender3.png?v=1713029603&width=700",
       "https://overlays.co/cdn/shop/files/Lavender2.png?v=1713029603&width=700",
-      "https://overlays.co/cdn/shop/files/Lavender.png?v=1713029603&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/Lavender.png?v=1713029603&width=700"
+    ]
   },
   {
-    
-    name: "Fly High Relaxed",
-    description:
-      "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \nRelaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Bird print.",
-    category: "T-Shirts",
-    total_reviews: 22,
-    avg_rating: 4.8,
-    price: 18.99,
-    discount: 20,
-    stock: 90,
-    purchase_count: 89,
-    color: "orange",
-    size: ["S", "M", "L", "XL", "2XL"],
-    image: [
+    "name": "Fly High Relaxed",
+    "description": "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \nRelaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Bird print.",
+    "category": "T-Shirts",
+    "total_reviews": 22,
+    "avg_rating": 4.8,
+    "price": 18.99,
+    "discount": 20,
+    "stock": 90,
+    "purchase_count": 89,
+    "color": "orange",
+    "size": ["S", "M", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/OrangeFlyhighPhoto_5.jpg?v=1712329884&width=700",
       "https://overlays.co/cdn/shop/files/OrangeFlyhighPhoto_4.jpg?v=1712329884&width=700",
       "https://overlays.co/cdn/shop/files/OrangeFlyhighPhoto_3.jpg?v=1712329884&width=700",
-      "https://overlays.co/cdn/shop/files/OrangeFlyhighPhoto_1.jpg?v=1712329884&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/OrangeFlyhighPhoto_1.jpg?v=1712329884&width=700"
+    ]
   },
   {
-    
-    name: "Warrior Arc ",
-    description:
-      "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \nRelaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Explore print.",
-    category: "T-Shirts",
-    total_reviews: 41,
-    avg_rating: 4.4,
-    price: 16.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 59,
-    color: "white",
-    size: ["S", "L", "XL", "2XL"],
-    image: [
+    "name": "Warrior Arc ",
+    "description": "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \nRelaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Explore print.",
+    "category": "T-Shirts",
+    "total_reviews": 41,
+    "avg_rating": 4.4,
+    "price": 16.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 59,
+    "color": "white",
+    "size": ["S", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/GreyDragonPhoto_6.jpg?v=1713004432&width=700",
       "https://overlays.co/cdn/shop/files/GreyDragonPhoto_7.jpg?v=1713004432&width=700",
       "https://overlays.co/cdn/shop/files/GreyDragonPhoto_8.jpg?v=1713004432&width=700",
-      "https://overlays.co/cdn/shop/files/GreyDragonPhoto_9.jpg?v=1713004432&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/GreyDragonPhoto_9.jpg?v=1713004432&width=700"
+    ]
   },
   {
-    
-    name: "Textured Heavy Weight Arise",
-    description:
-      'Erupt from the Neon Depths: Let this vibrant green "Arise" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term "relaxed" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.',
-    category: "T-Shirts",
-    total_reviews: 12,
-    avg_rating: 4.6,
-    price: 19.99,
-    discount: 20,
-    stock: 45,
-    purchase_count: 45,
-    color: "green",
-    size: ["S", "L", "XL", "2XL"],
-    image: [
+    "name": "Textured Heavy Weight Arise",
+    "description": "Erupt from the Neon Depths: Let this vibrant green \"Arise\" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term \"relaxed\" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.",
+    "category": "T-Shirts",
+    "total_reviews": 12,
+    "avg_rating": 4.6,
+    "price": 19.99,
+    "discount": 20,
+    "stock": 45,
+    "purchase_count": 45,
+    "color": "green",
+    "size": ["S", "L", "XL", "2XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/GreenArisePhoto_4.jpg?v=1712329535&width=700",
       "https://overlays.co/cdn/shop/files/GreenArisePhoto_3.jpg?v=1712329535&width=700",
       "https://overlays.co/cdn/shop/files/GreenArisePhoto_6.jpg?v=1712329535&width=700",
-      "https://overlays.co/cdn/shop/files/GreenArisePhoto_5.jpg?v=1712329535&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/GreenArisePhoto_5.jpg?v=1712329535&width=700"
+    ]
   },
   {
-    
-    name: "Raven Oversized Hoodies",
-    description:
-      "Embark on a transformative journey with our hoodie—step into a realm where comfort meets bold expression. Shed the ordinary, embrace the oversized fit, and unveil your unique style. Crafted with an inner lining, it's your cocoon of warmth on the path to self-discovery.",
-    category: "Hoodie'24",
-    total_reviews: 10,
-    avg_rating: 4.8,
-    price: 34.99,
-    color: "black",
-    size: ["S", "M", "L", "XL", "2XL", "3X"],
-    discount: 20,
-    stock: 50,
-    purchase_count: 50,
-    image: [
+    "name": "Raven Oversized Hoodies",
+    "description": "Embark on a transformative journey with our hoodie—step into a realm where comfort meets bold expression. Shed the ordinary, embrace the oversized fit, and unveil your unique style. Crafted with an inner lining, it's your cocoon of warmth on the path to self-discovery.",
+    "category": "Hoodie'24",
+    "total_reviews": 10,
+    "avg_rating": 4.8,
+    "price": 34.99,
+    "color": "black",
+    "size": ["S", "M", "L", "XL", "2XL", "3X"],
+    "discount": 20,
+    "stock": 50,
+    "purchase_count": 50,
+    "image": [
       "https://overlays.co/cdn/shop/files/1_d2a961db-b0e2-4d7f-856c-120feb0c58f2.jpg?v=1703255102&width=700",
       "https://overlays.co/cdn/shop/files/2_56ef5e81-0c06-40f2-8f6d-16cb106cfc29.jpg?v=1703255102&width=700",
       "https://overlays.co/cdn/shop/files/6_e72b87b9-c834-4eeb-ae1e-6267dbadd63e.jpg?v=1703255102&width=700",
-      "https://overlays.co/cdn/shop/files/7_298a0809-c411-4369-b316-581e514d2bcc.jpg?v=1703255102&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/7_298a0809-c411-4369-b316-581e514d2bcc.jpg?v=1703255102&width=700"
+    ]
   },
   {
-    
-    name: "Diode Blue",
-    description:
-      "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
-    category: "Hoodie'24",
-    total_reviews: 25,
-    avg_rating: 4.5,
-    price: 29.99,
-    discount: 20,
-    stock: 100,
-    purchase_count: 60,
-    color: "blue",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Diode Blue",
+    "description": "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
+    "category": "Hoodie'24",
+    "total_reviews": 25,
+    "avg_rating": 4.5,
+    "price": 29.99,
+    "discount": 20,
+    "stock": 100,
+    "purchase_count": 60,
+    "color": "blue",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_f5b19268-03f6-4132-ba3a-ad43d3a6863f.jpg?v=1703256488&width=700",
       "https://overlays.co/cdn/shop/files/2_00e31958-1631-4325-afc7-8f44ae1c3710.jpg?v=1703256510&width=700",
       "https://overlays.co/cdn/shop/files/3_83adb007-10e2-4915-b4cd-4c13a662e29d.jpg?v=1703256510&width=700",
-      "https://overlays.co/cdn/shop/files/4_7c3a874f-66e5-48d9-beae-9a09fe1e4d8c.jpg?v=1703256510&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/4_7c3a874f-66e5-48d9-beae-9a09fe1e4d8c.jpg?v=1703256510&width=700"
+    ]
   },
   {
-    
-    name: "Red Embossed Hoodie",
-    description:
-      "Command attention with our striking Bright Red Embossed Hoodie - a hue that ignites confidence and makes a bold statement. Embrace the vibrancy of this timeless color, adding an electrifying touch to your wardrobe.",
-    category: "Hoodie'24",
-    total_reviews: 8,
-    avg_rating: 4.9,
-    price: 29.99,
-    discount: 20,
-    stock: 20,
-    purchase_count: 20,
-    color: "red",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Red Embossed Hoodie",
+    "description": "Command attention with our striking Bright Red Embossed Hoodie - a hue that ignites confidence and makes a bold statement. Embrace the vibrancy of this timeless color, adding an electrifying touch to your wardrobe.",
+    "category": "Hoodie'24",
+    "total_reviews": 8,
+    "avg_rating": 4.9,
+    "price": 29.99,
+    "discount": 20,
+    "stock": 20,
+    "purchase_count": 20,
+    "color": "red",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_9577d097-4ce3-46ed-8549-364566b8b00a.jpg?v=1704910714&width=700",
       "https://overlays.co/cdn/shop/files/2_30bda442-2529-445a-9621-c30ba1e4f971.jpg?v=1704910714&width=700",
       "https://overlays.co/cdn/shop/files/3_3.jpg?v=1704910714&width=700",
-      "https://overlays.co/cdn/shop/files/5_d063f40f-5334-427e-a355-00594dc31224.jpg?v=1704910714&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/5_d063f40f-5334-427e-a355-00594dc31224.jpg?v=1704910714&width=700"
+    ]
   },
   {
-    
-    name: "Acid Embossed Hoodie",
-    description:
-      "Embrace vibrancy with our electrifying Neon Acid Lime hoodie featuring captivating embossed textures. Radiating boldness, this color energizes your style, ensuring you stand out with a striking and lively flair.",
-    category: "Hoodie'24",
-    total_reviews: 15,
-    avg_rating: 4.2,
-    price: 32.99,
-    discount: 20,
-    stock: 75,
-    purchase_count: 75,
-    color: "green",
-    size: ["XS", "S", "M", "XL", "2XL", "3X"],
-    image: [
+    "name": "Acid Embossed Hoodie",
+    "description": "Embrace vibrancy with our electrifying Neon Acid Lime hoodie featuring captivating embossed textures. Radiating boldness, this color energizes your style, ensuring you stand out with a striking and lively flair.",
+    "category": "Hoodie'24",
+    "total_reviews": 15,
+    "avg_rating": 4.2,
+    "price": 32.99,
+    "discount": 20,
+    "stock": 75,
+    "purchase_count": 75,
+    "color": "green",
+    "size": ["XS", "S", "M", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_eb86e209-c9b0-4c04-a7ae-c5087fb1c20f.jpg?v=1704910256&width=700",
       "https://overlays.co/cdn/shop/files/2_6382bbcb-e4a4-4fd2-a1ad-e45393b03b41.jpg?v=1704910256&width=700",
       "https://overlays.co/cdn/shop/files/3_e749e034-3f0e-4053-986b-9e12c2ce97f3.jpg?v=1704910256&width=700",
-      "https://overlays.co/cdn/shop/files/5_336b0e40-b526-42f4-ac4b-384dbf8d9ffd.jpg?v=1704910256&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/5_336b0e40-b526-42f4-ac4b-384dbf8d9ffd.jpg?v=1704910256&width=700"
+    ]
   },
   {
-    
-    name: "Buff Oversized Hoodies",
-    description:
-      "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
-    category: "Hoodie'24",
-    total_reviews: 32,
-    avg_rating: 4.7,
-    price: 37.99,
-    discount: 20,
-    stock: 120,
-    purchase_count: 120,
-    color: "white",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Buff Oversized Hoodies",
+    "description": "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
+    "category": "Hoodie'24",
+    "total_reviews": 32,
+    "avg_rating": 4.7,
+    "price": 37.99,
+    "discount": 20,
+    "stock": 120,
+    "purchase_count": 120,
+    "color": "white",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/Colour-Change-_1.jpg?v=1703258095&width=700",
       "https://overlays.co/cdn/shop/files/Colour-Change-_2.jpg?v=1703258095&width=700",
       "https://overlays.co/cdn/shop/files/Colour-Change-_3.jpg?v=1703258095&width=700",
-      "https://overlays.co/cdn/shop/files/Colour-Change-_3.jpg?v=1703258095&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/Colour-Change-_3.jpg?v=1703258095&width=700"
+    ]
   },
   {
-    
-    name: "Fox Grey Oversized",
-    description:
-      "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
-    category: "Hoodie'24",
-    total_reviews: 4,
-    avg_rating: 5,
-    price: 27.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "white",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Fox Grey Oversized",
+    "description": "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
+    "category": "Hoodie'24",
+    "total_reviews": 4,
+    "avg_rating": 5,
+    "price": 27.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "white",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_78af4c6e-09f1-4e84-a45d-b763f34ad142.jpg?v=1703256905&width=700",
       "https://overlays.co/cdn/shop/files/2_2c26d65a-2534-4d33-b328-a51de0bbc6a9.jpg?v=1703256905&width=700",
       "https://overlays.co/cdn/shop/files/3_d86194fd-7b00-4e99-abb0-7018d1e5ba3c.jpg?v=1703256905&width=700",
-      "https://overlays.co/cdn/shop/files/4_acff1410-cd30-447b-be02-a0bfba13a8a2.jpg?v=1703256905&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/4_acff1410-cd30-447b-be02-a0bfba13a8a2.jpg?v=1703256905&width=700"
+    ]
   },
   {
-    
-    name: "CoCoa Brown",
-    description:
-      "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
-    category: "Hoodie'24",
-    total_reviews: 18,
-    avg_rating: 4.3,
-    price: 31.99,
-    discount: 20,
-    stock: 80,
-    purchase_count: 80,
-    color: "brown",
-    size: ["XS", "S", "M", "L", "XL"],
-    image: [
+    "name": "CoCoa Brown",
+    "description": "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
+    "category": "Hoodie'24",
+    "total_reviews": 18,
+    "avg_rating": 4.3,
+    "price": 31.99,
+    "discount": 20,
+    "stock": 80,
+    "purchase_count": 80,
+    "color": "brown",
+    "size": ["XS", "S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/4_cb53edd8-af8b-47c3-b1f4-2c7dfb32c723.jpg?v=1703579896&width=700",
       "https://overlays.co/cdn/shop/files/1_f2b8945e-1203-4ade-88c2-56dabbcae778.jpg?v=1703579896&width=700",
       "https://overlays.co/cdn/shop/files/2_b41646b7-871c-4071-bb55-a9b5abb9ba13.jpg?v=1703579896&width=700",
-      "https://overlays.co/cdn/shop/files/6_9f3f464a-0247-4d38-8932-43aa76f47a99.jpg?v=1703256719&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/6_9f3f464a-0247-4d38-8932-43aa76f47a99.jpg?v=1703256719&width=700"
+    ]
   },
   {
-    
-    name: "Raven Embossed Hoodies",
-    description:
-      "Unlock a style revolution with our Black Embossed Hoodie, designed to change the game. Infused with intricate details, it offers the freedom to express your unique flair while embracing comfort and bold sophistication.",
-    category: "Hoodie'24",
-    total_reviews: 22,
-    avg_rating: 4.8,
-    price: 38.99,
-    discount: 20,
-    stock: 90,
-    purchase_count: 90,
-    color: "black",
-    size: ["S", "M", "L", "XL"],
-    image: [
+    "name": "Raven Embossed Hoodies",
+    "description": "Unlock a style revolution with our Black Embossed Hoodie, designed to change the game. Infused with intricate details, it offers the freedom to express your unique flair while embracing comfort and bold sophistication.",
+    "category": "Hoodie'24",
+    "total_reviews": 22,
+    "avg_rating": 4.8,
+    "price": 38.99,
+    "discount": 20,
+    "stock": 90,
+    "purchase_count": 90,
+    "color": "black",
+    "size": ["S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/5_80852ba5-0268-46ce-b352-e83f8f5ff893.jpg?v=1704966974&width=700",
       "https://overlays.co/cdn/shop/files/1_7c287af8-75e9-4a08-9a28-f5e6e6cc2931.jpg?v=1704966974&width=700",
       "https://overlays.co/cdn/shop/files/2_3f88ea56-6560-4dbd-ad22-47a2f7408503.jpg?v=1704966974&width=700",
-      "https://overlays.co/cdn/shop/files/1_7c287af8-75e9-4a08-9a28-f5e6e6cc2931.jpg?v=1704966974&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/1_7c287af8-75e9-4a08-9a28-f5e6e6cc2931.jpg?v=1704966974&width=700"
+    ]
   },
   {
-    
-    name: "Mint Embossed",
-    description:
-      "Revel in serene sophistication with our Mint Embossed Hoodie. Infused with intricate embossed textures, this serene hue redefines casual elegance. Elevate your look with a refreshing twist, embodying both comfort and fashion-forward sophistication.",
-    category: "Hoodie'24",
-    total_reviews: 41,
-    avg_rating: 4.4,
-    price: 36.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "sky-blue",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Mint Embossed",
+    "description": "Revel in serene sophistication with our Mint Embossed Hoodie. Infused with intricate embossed textures, this serene hue redefines casual elegance. Elevate your look with a refreshing twist, embodying both comfort and fashion-forward sophistication.",
+    "category": "Hoodie'24",
+    "total_reviews": 41,
+    "avg_rating": 4.4,
+    "price": 36.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "sky-blue",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_5_2c5c9efc-5008-44f7-a38b-ee09bd2d66a6.jpg?v=1704911232&width=700",
       "https://overlays.co/cdn/shop/files/3_e1dd9a87-4768-4ef3-aeb4-f47f12dc6810.jpg?v=1704911232&width=700",
       "https://overlays.co/cdn/shop/files/2_6386bd76-e742-4678-a81d-b4dfe95b144c.jpg?v=1704911232&width=700",
-      "https://overlays.co/cdn/shop/files/6_bc97cac5-d8e4-4ec5-95bd-a1078ab9caaa.jpg?v=1704911232&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/6_bc97cac5-d8e4-4ec5-95bd-a1078ab9caaa.jpg?v=1704911232&width=700"
+    ]
   },
   {
-    
-    name: "Fire Oversized Hoodie - Orange",
-    description:
-      "Ignite your inner Freedom with our Fire Hoodie in striking orange and black. Crafted for bold self-expression, this hoodie combines warmth with a fierce design, making it the ultimate statement piece for those who dare to stand out.",
-    category: "Hoodie'24",
-    total_reviews: 12,
-    avg_rating: 4.6,
-    price: 46.99,
-    discount: 20,
-    stock: 45,
-    purchase_count: 45,
-    color: "black",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Fire Oversized Hoodie - Orange",
+    "description": "Ignite your inner Freedom with our Fire Hoodie in striking orange and black. Crafted for bold self-expression, this hoodie combines warmth with a fierce design, making it the ultimate statement piece for those who dare to stand out.",
+    "category": "Hoodie'24",
+    "total_reviews": 12,
+    "avg_rating": 4.6,
+    "price": 46.99,
+    "discount": 20,
+    "stock": 45,
+    "purchase_count": 45,
+    "color": "black",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/WhatsAppImage2024-01-13at19.21.54.jpg?v=1705150928&width=700",
       "https://overlays.co/cdn/shop/files/WhatsAppImage2024-01-13at19.22.03.jpg?v=1705150928&width=700",
       "https://overlays.co/cdn/shop/files/WhatsAppImage2024-01-13at19.22.03.jpg?v=1705150928&width=700",
-      "https://overlays.co/cdn/shop/files/WhatsAppImage2024-01-13at19.21.45.jpg?v=1705150928&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/WhatsAppImage2024-01-13at19.21.45.jpg?v=1705150928&width=700"
+    ]
   },
   {
-    
-    name: "Slim Fit Raven Joggers",
-    description:
-      "Black joggers, the armour of the modern Black Knight. Soft yet strong, they offer comfort and support on your  Uncharted Territory.",
-    category: "joggers",
-    total_reviews: 10,
-    avg_rating: 4.8,
-    price: 22.99,
-    discount: 20,
-    stock: 4,
-    purchase_count: 4,
-    color: "black",
-    size: ["S", "M", "L", "XL"],
-    image: [
+    "name": "Slim Fit Raven Joggers",
+    "description": "Black joggers, the armour of the modern Black Knight. Soft yet strong, they offer comfort and support on your  Uncharted Territory.",
+    "category": "joggers",
+    "total_reviews": 10,
+    "avg_rating": 4.8,
+    "price": 22.99,
+    "discount": 20,
+    "stock": 4,
+    "purchase_count": 4,
+    "color": "black",
+    "size": ["S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/black2.png?v=1713013111&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_2.jpg?v=1713013111&width=700",
       "https://overlays.co/cdn/shop/files/2_4075c3ff-3584-4233-a61c-9df33c402d33.png?v=1713013111&width=700",
-      "https://overlays.co/cdn/shop/files/Image-Edit-_4.jpg?v=1713013111&width=900",
-    ],
+      "https://overlays.co/cdn/shop/files/Image-Edit-_4.jpg?v=1713013111&width=900"
+    ]
   },
   {
-    
-    name: "Deconstructed Raven joggers",
-    description:
-      "Explore the Universe in Black Joggers. Our black joggers are your portal to endless possibilities, a reminder to reach for the stars. Let these joggers be your launchpad, a foundation for your journey to greatness.",
-    category: "joggers",
-    total_reviews: 25,
-    avg_rating: 4.5,
-    price: 14.99,
-    discount: 20,
-    stock: 100,
-    purchase_count: 100,
-    color: "black",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Deconstructed Raven joggers",
+    "description": "Explore the Universe in Black Joggers. Our black joggers are your portal to endless possibilities, a reminder to reach for the stars. Let these joggers be your launchpad, a foundation for your journey to greatness.",
+    "category": "joggers",
+    "total_reviews": 25,
+    "avg_rating": 4.5,
+    "price": 14.99,
+    "discount": 20,
+    "stock": 100,
+    "purchase_count": 100,
+    "color": "black",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/Image-Edit-_20.jpg?v=1712920011&width=700",
       "https://overlays.co/cdn/shop/files/1_3.png?v=1712997793&width=700",
       "https://overlays.co/cdn/shop/files/5_3.png?v=1712997793&width=700",
-      "https://overlays.co/cdn/shop/files/3_7c7e6bff-809f-4c69-99e0-3c86d793fba7.png?v=1712997793&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/3_7c7e6bff-809f-4c69-99e0-3c86d793fba7.png?v=1712997793&width=700"
+    ]
   },
   {
-    
-    name: "Amber Joggers",
-    description:
-      "Don't blend in, stand out! Be the change you wish to see in a pair of these fiery orange joggers! Fuel your next adventure with effortless style. These joggers are designed for exploration and discovery, offering comfort and confidence on every step.",
-    category: "joggers",
-    total_reviews: 8,
-    avg_rating: 4.9,
-    price: 39.99,
-    discount: 20,
-    stock: 20,
-    purchase_count: 20,
-    color: "orange",
-    size: ["S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Amber Joggers",
+    "description": "Don't blend in, stand out! Be the change you wish to see in a pair of these fiery orange joggers! Fuel your next adventure with effortless style. These joggers are designed for exploration and discovery, offering comfort and confidence on every step.",
+    "category": "joggers",
+    "total_reviews": 8,
+    "avg_rating": 4.9,
+    "price": 39.99,
+    "discount": 20,
+    "stock": 20,
+    "purchase_count": 20,
+    "color": "orange",
+    "size": ["S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/Image-Edit-_36.jpg?v=1712916339&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_37.jpg?v=1712916339&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_31.jpg?v=1712997391&width=700",
-      "https://overlays.co/cdn/shop/files/Image-Edit-_38.jpg?v=1712997394&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/Image-Edit-_38.jpg?v=1712997394&width=700"
+    ]
   },
   {
-    
-    name: "Tilted Navy Joggers",
-    description:
-      "Confidence comes in all shades, and navy blue is yours. Don't underestimate the power of quiet confidence. Step into your stride with our navy joggers and let your actions speak volumes.",
-    category: "joggers",
-    total_reviews: 15,
-    avg_rating: 4.2,
-    price: 23.99,
-    discount: 20,
-    stock: 75,
-    purchase_count: 75,
-    color: "navy-blue",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Tilted Navy Joggers",
+    "description": "Confidence comes in all shades, and navy blue is yours. Don't underestimate the power of quiet confidence. Step into your stride with our navy joggers and let your actions speak volumes.",
+    "category": "joggers",
+    "total_reviews": 15,
+    "avg_rating": 4.2,
+    "price": 23.99,
+    "discount": 20,
+    "stock": 75,
+    "purchase_count": 75,
+    "color": "navy-blue",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/4_1.png?v=1712996968&width=700",
       "https://overlays.co/cdn/shop/files/NavyBlue.png?v=1713001374&width=700",
       "https://overlays.co/cdn/shop/files/2_1.png?v=1713001374&width=700",
-      "https://overlays.co/cdn/shop/files/3_ec2a8368-a898-4e35-a650-507dfe1bb6cf.png?v=1713001374&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/3_ec2a8368-a898-4e35-a650-507dfe1bb6cf.png?v=1713001374&width=700"
+    ]
   },
   {
-    
-    name: "Deconstructed Fawn Joggers",
-    description:
-      "The Minimalist Muse: Whisper your story with comfort, letting your legacy roar a little louder with every step.",
-    category: "joggers",
-    total_reviews: 32,
-    avg_rating: 4.7,
-    price: 17.99,
-    discount: 20,
-    stock: 120,
-    purchase_count: 120,
-    color: "golden-yellow",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Deconstructed Fawn Joggers",
+    "description": "The Minimalist Muse: Whisper your story with comfort, letting your legacy roar a little louder with every step.",
+    "category": "joggers",
+    "total_reviews": 32,
+    "avg_rating": 4.7,
+    "price": 17.99,
+    "discount": 20,
+    "stock": 120,
+    "purchase_count": 120,
+    "color": "golden-yellow",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/Image-Edit-_10.jpg?v=1712920730&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_13.jpg?v=1712920730&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_11.jpg?v=1712920730&width=700",
-      "https://overlays.co/cdn/shop/files/6_1.png?v=1712998412&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/6_1.png?v=1712998412&width=700"
+    ]
   },
   {
-    
-    name: "Slim fit Fawn Joggers",
-    description:
-      "Our beige joggers are your threads of freedom. Soft as a lioness's mane, they conquer any challenge. Let your actions roar, a testament to your quiet strength. These joggers are a catalyst for change, a foundation for your legacy's rise.",
-    category: "joggers",
-    total_reviews: 4,
-    avg_rating: 5,
-    price: 27.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "golden-yellow",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Slim fit Fawn Joggers",
+    "description": "Our beige joggers are your threads of freedom. Soft as a lioness's mane, they conquer any challenge. Let your actions roar, a testament to your quiet strength. These joggers are a catalyst for change, a foundation for your legacy's rise.",
+    "category": "joggers",
+    "total_reviews": 4,
+    "avg_rating": 5,
+    "price": 27.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "golden-yellow",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/Beige_b635e301-679f-4d87-aa18-66d65e38d1a2.png?v=1713012842&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_6.jpg?v=1713012842&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_9.jpg?v=1713012842&width=700",
-      "https://overlays.co/cdn/shop/files/Image-Edit-_8.jpg?v=1713012842&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/Image-Edit-_8.jpg?v=1713012842&width=700"
+    ]
   },
   {
-    
-    name: "Heavy Weight Fawn Joggers",
-    description:
-      "The Calming Catalyst: Beige Joggers for Focused Change. Our calming beige joggers invite inner peace and ignite your creative fire.",
-    category: "joggers",
-    total_reviews: 4,
-    avg_rating: 5,
-    price: 27.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "golden-yellow",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Heavy Weight Fawn Joggers",
+    "description": "The Calming Catalyst: Beige Joggers for Focused Change. Our calming beige joggers invite inner peace and ignite your creative fire.",
+    "category": "joggers",
+    "total_reviews": 4,
+    "avg_rating": 5,
+    "price": 27.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "golden-yellow",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_f5fc5963-5e24-47ca-822e-b7a8a4cde661.png?v=1712941993&width=700",
       "https://overlays.co/cdn/shop/files/3_1498a72a-6a40-43d1-9dd9-ef09299a92b9.png?v=1712941993&width=700",
       "https://overlays.co/cdn/shop/files/5_f76f72e5-e6e8-41b4-9fd7-d7bd070ef23c.png?v=1712941993&width=700",
-      "https://overlays.co/cdn/shop/files/4_c9b8e0da-d45e-4b61-b6b8-9d4dc326ddeb.png?v=1712941993&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/4_c9b8e0da-d45e-4b61-b6b8-9d4dc326ddeb.png?v=1712941993&width=700"
+    ]
   },
   {
-    
-    name: "Heavy weight Brown Joggers",
-    description:
-      "Where comfort meets purpose. Slip into these earthy brown joggers and feel the difference. Be the change, the muse, the artist - all wrapped in earthy chic.",
-    category: "joggers",
-    total_reviews: 22,
-    avg_rating: 4.8,
-    price: 28.99,
-    discount: 20,
-    stock: 90,
-    purchase_count: 90,
-    color: "brown",
-    size: ["XS", "S", "M", "L", "XL"],
-    image: [
+    "name": "Heavy weight Brown Joggers",
+    "description": "Where comfort meets purpose. Slip into these earthy brown joggers and feel the difference. Be the change, the muse, the artist - all wrapped in earthy chic.",
+    "category": "joggers",
+    "total_reviews": 22,
+    "avg_rating": 4.8,
+    "price": 28.99,
+    "discount": 20,
+    "stock": 90,
+    "purchase_count": 90,
+    "color": "brown",
+    "size": ["XS", "S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_5d7b18fe-bc7c-42db-b19e-42531c7e6fbe.png?v=1712997251&width=700",
       "https://overlays.co/cdn/shop/files/BrownJogger.Photo_3_0c7f482e-5937-4bec-892a-25528cde3298.jpg?v=1712997221&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_27.jpg?v=1712997251&width=700",
-      "https://overlays.co/cdn/shop/files/Image-Edit-_26.jpg?v=1712997251&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/Image-Edit-_26.jpg?v=1712997251&width=700"
+    ]
   },
   {
-    
-    name: "Heavy Weight Combat Black Joggers",
-    description:
-      "Live for street art. The Arise Fleece Unisex Oversized sweatshirt features digitally printed graffiti on it. It is made from fleece material, which will give you a stylish look when you dress it up with your favorite denim, sneakers, and sunglasses.",
-    category: "joggers",
-    total_reviews: 41,
-    avg_rating: 4.4,
-    price: 26.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "black",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Heavy Weight Combat Black Joggers",
+    "description": "Live for street art. The Arise Fleece Unisex Oversized sweatshirt features digitally printed graffiti on it. It is made from fleece material, which will give you a stylish look when you dress it up with your favorite denim, sneakers, and sunglasses.",
+    "category": "joggers",
+    "total_reviews": 41,
+    "avg_rating": 4.4,
+    "price": 26.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "black",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/black_7aeefdff-4705-4e31-8e9b-7916464dc82b.png?v=1713013071&width=700",
       "https://overlays.co/cdn/shop/files/Image-Edit-_17.jpg?v=1713013071&width=700",
       "https://overlays.co/cdn/shop/files/Blackx.png?v=1713013071&width=700",
-      "https://overlays.co/cdn/shop/files/Image-Edit-_18.jpg?v=1713013071&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/Image-Edit-_18.jpg?v=1713013071&width=700"
+    ]
   },
   {
-    
-    name: "Tranquil Blue Fleece Joggers",
-    description:
-      'Erupt from the Neon Depths: Let this vibrant green "Arise" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term "relaxed" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.',
-    category: "joggers",
-    total_reviews: 12,
-    avg_rating: 4.6,
-    price: 24.99,
-    discount: 20,
-    stock: 45,
-    purchase_count: 45,
-    color: "sky-blue",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Tranquil Blue Fleece Joggers",
+    "description": "Erupt from the Neon Depths: Let this vibrant green \"Arise\" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term \"relaxed\" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.",
+    "category": "joggers",
+    "total_reviews": 12,
+    "avg_rating": 4.6,
+    "price": 24.99,
+    "discount": 20,
+    "stock": 45,
+    "purchase_count": 45,
+    "color": "sky-blue",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/products/3_2_8715ea34-8b60-456e-b494-7afdad116577.jpg?v=1677758026&width=700",
       "https://overlays.co/cdn/shop/products/2_2_a4fb69bd-0ba6-4375-9b79-d0b3d2c1c757.jpg?v=1677758026&width=700",
       "https://overlays.co/cdn/shop/products/1_1_78fc8d07-96ec-40b7-a4fd-5f5ad26ccb52.jpg?v=1677758026&width=700",
-      "https://overlays.co/cdn/shop/products/4_481fe7ed-bd8f-4c66-b22f-80120233e715.jpg?v=1677758026&width=700",
-    ],
+      "https://overlays.co/cdn/shop/products/4_481fe7ed-bd8f-4c66-b22f-80120233e715.jpg?v=1677758026&width=700"
+    ]
   },
   {
-    
-    name: "Explore Black Sweatshirt",
-    description:
-      "Introducing our Black Lizard Alchemy Sweatshirt, where the intricate print embodies the metamorphosis of freedom and change. With each scale, embrace the untamed spirit within and redefine your journey with bold determination. Elevate your style with this unique garment, a symbolic ode to liberation and transformation on the canvas of black.",
-    category: "sweat-shirt",
-    total_reviews: 10,
-    avg_rating: 4.8,
-    price: 21.99,
-    discount: 20,
-    stock: 50,
-    purchase_count: 50,
-    color: "black",
-    size: ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Explore Black Sweatshirt",
+    "description": "Introducing our Black Lizard Alchemy Sweatshirt, where the intricate print embodies the metamorphosis of freedom and change. With each scale, embrace the untamed spirit within and redefine your journey with bold determination. Elevate your style with this unique garment, a symbolic ode to liberation and transformation on the canvas of black.",
+    "category": "sweat-shirt",
+    "total_reviews": 10,
+    "avg_rating": 4.8,
+    "price": 21.99,
+    "discount": 20,
+    "stock": 50,
+    "purchase_count": 50,
+    "color": "black",
+    "size": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_6acde2e1-f3fb-4b25-acdb-c0a1aa96bc82.jpg?v=1703248215&width=700",
       "https://overlays.co/cdn/shop/files/2_c7749f3b-b17a-4d87-99dc-cdea82595eb6.jpg?v=1703248215&width=700",
       "https://overlays.co/cdn/shop/files/5_242a11c5-9d0c-41b9-8b8e-0a7cafdd33d3.jpg?v=1703248215&width=700",
-      "https://overlays.co/cdn/shop/files/2_c7749f3b-b17a-4d87-99dc-cdea82595eb6.jpg?v=1703248215&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/2_c7749f3b-b17a-4d87-99dc-cdea82595eb6.jpg?v=1703248215&width=700"
+    ]
   },
   {
-    
-    name: "Courage Beige",
-    description:
-      "Soar with Courage. Channel the spirit of courage with our Courage Bird Oversized Sweatshirt. Each piece is a symbol of strength and determination, blending bold designs inspired by majestic birds for Freedom. Elevate your style with the fearless essence of our Courage Bird line, where fashion meets fortitude",
-    category: "sweat-shirt",
-    total_reviews: 25,
-    avg_rating: 4.5,
-    price: 15.99,
-    discount: 20,
-    stock: 100,
-    purchase_count: 100,
-    color: "brown",
-    size: ["S", "M", "L", "XL"],
-    image: [
+    "name": "Courage Beige",
+    "description": "Soar with Courage. Channel the spirit of courage with our Courage Bird Oversized Sweatshirt. Each piece is a symbol of strength and determination, blending bold designs inspired by majestic birds for Freedom. Elevate your style with the fearless essence of our Courage Bird line, where fashion meets fortitude",
+    "category": "sweat-shirt",
+    "total_reviews": 25,
+    "avg_rating": 4.5,
+    "price": 15.99,
+    "discount": 20,
+    "stock": 100,
+    "purchase_count": 100,
+    "color": "brown",
+    "size": ["S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_5d3f3998-b8ba-40bd-871c-119bd526147b.jpg?v=1703241549&width=700",
       "https://overlays.co/cdn/shop/files/2_14a3a070-f2db-4fcd-9173-50c91a22d438.jpg?v=1703241549&width=700",
       "https://overlays.co/cdn/shop/files/4_242860ec-a536-448a-a98f-0e2d8be88192.jpg?v=1703241549&width=700",
-      "https://overlays.co/cdn/shop/files/2_14a3a070-f2db-4fcd-9173-50c91a22d438.jpg?v=1703241549&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/2_14a3a070-f2db-4fcd-9173-50c91a22d438.jpg?v=1703241549&width=700"
+    ]
   },
   {
-    
-    name: "Fierce Black",
-    description:
-      "Unleash the bold spirit within with our Black Rhino Ascent Sweatshirt, where the powerful print embodies the freedom to change. In the rhino's silhouette, discover the strength to forge a new path and redefine your journey. Elevate your wardrobe with this unique garment, a symbol of liberation and transformation in every thread.",
-    category: "sweat-shirt",
-    total_reviews: 8,
-    avg_rating: 4.9,
-    price: 39.99,
-    discount: 20,
-    stock: 20,
-    purchase_count: 20,
-    color: "black",
-    size: ["S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Fierce Black",
+    "description": "Unleash the bold spirit within with our Black Rhino Ascent Sweatshirt, where the powerful print embodies the freedom to change. In the rhino's silhouette, discover the strength to forge a new path and redefine your journey. Elevate your wardrobe with this unique garment, a symbol of liberation and transformation in every thread.",
+    "category": "sweat-shirt",
+    "total_reviews": 8,
+    "avg_rating": 4.9,
+    "price": 39.99,
+    "discount": 20,
+    "stock": 20,
+    "purchase_count": 20,
+    "color": "black",
+    "size": ["S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_3_fefe95e5-76c3-4dea-abb3-3143a3c825ed.jpg?v=1703237701&width=700",
       "https://overlays.co/cdn/shop/files/2_30cd0553-4a1e-4a0f-b0ae-069b68b1cba0.jpg?v=1703237701&width=700",
       "https://overlays.co/cdn/shop/files/4_2.jpg?v=1703237701&width=700",
-      "https://overlays.co/cdn/shop/files/3_a5653070-103f-4a21-b7df-5b9a3d1faf7f.jpg?v=1703237701&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/3_a5653070-103f-4a21-b7df-5b9a3d1faf7f.jpg?v=1703237701&width=700"
+    ]
   },
   {
-    
-    name: "Fearless Navy",
-    description:
-      "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Fearless Navy print.",
-    category: "sweat-shirt",
-    total_reviews: 15,
-    avg_rating: 4.2,
-    price: 32.99,
-    discount: 20,
-    stock: 75,
-    purchase_count: 75,
-    color: "navy-blue",
-    size: ["S", "M", "L", "XL"],
-    image: [
+    "name": "Fearless Navy",
+    "description": "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Fearless Navy print.",
+    "category": "sweat-shirt",
+    "total_reviews": 15,
+    "avg_rating": 4.2,
+    "price": 32.99,
+    "discount": 20,
+    "stock": 75,
+    "purchase_count": 75,
+    "color": "navy-blue",
+    "size": ["S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_3cbdee39-0021-443f-bbd1-64ea279bb79b.jpg?v=1703231031&width=700",
       "https://overlays.co/cdn/shop/files/2_401d5773-baa3-4f97-a694-cfad570243e4.jpg?v=1703231032&width=700",
       "https://overlays.co/cdn/shop/files/3_3167fce9-1cc2-408e-8b66-9b30ff931e82.jpg?v=1703231031&width=700",
-      "https://overlays.co/cdn/shop/files/5_13e78272-62c6-4bb0-9182-0d7d1cab3838.jpg?v=1703236783&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/5_13e78272-62c6-4bb0-9182-0d7d1cab3838.jpg?v=1703236783&width=700"
+    ]
   },
   {
-    
-    name: "Triumph Grey",
-    description:
-      "A grey canvas of change and freedom. With the majestic lion print, embrace the courage to redefine your journey and express your untamed spirit. It's more than apparel; it's a visual anthem for those seeking liberation and transformation.",
-    category: "sweat-shirt",
-    total_reviews: 32,
-    avg_rating: 4.7,
-    price: 27.99,
-    discount: 20,
-    stock: 120,
-    purchase_count: 120,
-    color: "white",
-    size: ["XS", "S", "M", "L", "XL", "2XL", "3X"],
-    image: [
+    "name": "Triumph Grey",
+    "description": "A grey canvas of change and freedom. With the majestic lion print, embrace the courage to redefine your journey and express your untamed spirit. It's more than apparel; it's a visual anthem for those seeking liberation and transformation.",
+    "category": "sweat-shirt",
+    "total_reviews": 32,
+    "avg_rating": 4.7,
+    "price": 27.99,
+    "discount": 20,
+    "stock": 120,
+    "purchase_count": 120,
+    "color": "white",
+    "size": ["XS", "S", "M", "L", "XL", "2XL", "3X"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_404ff9fe-1fd5-4aff-b896-5053cc565f41.jpg?v=1703334025&width=700",
       "https://overlays.co/cdn/shop/files/2_f00c9d0f-c345-4707-a607-3ace5ae7d625.jpg?v=1703334026&width=700",
       "https://overlays.co/cdn/shop/files/3_c93781e6-439c-418d-ac76-2594822e0413.jpg?v=1703334026&width=700",
-      "https://overlays.co/cdn/shop/files/5_f3a6138d-7141-44d6-ad5a-f2fd82b8b05a.jpg?v=1703334026&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/5_f3a6138d-7141-44d6-ad5a-f2fd82b8b05a.jpg?v=1703334026&width=700"
+    ]
   },
   {
-    
-    name: "Serpent Oversized ",
-    description:
-      "Sleek Minimalism: The Serpent  Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
-    category: "sweat-shirt",
-    total_reviews: 4,
-    avg_rating: 5,
-    price: 27.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "orange",
-    size: ["XS", "S", "M", "L", "XL"],
-    image: [
+    "name": "Serpent Oversized ",
+    "description": "Sleek Minimalism: The Serpent  Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
+    "category": "sweat-shirt",
+    "total_reviews": 4,
+    "avg_rating": 5,
+    "price": 27.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "orange",
+    "size": ["XS", "S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_7c09d60f-23f8-4968-84ab-a568b0666fb8.jpg?v=1703945822&width=700",
       "https://overlays.co/cdn/shop/files/2_264ce8ef-5501-4585-b3d0-4298dc4989e2.jpg?v=1703945821&width=700",
       "https://overlays.co/cdn/shop/files/3_b9edcf1e-40b0-4b64-a5f4-dad6216f14c4.jpg?v=1703945822&width=700",
-      "https://overlays.co/cdn/shop/files/5_10e92c70-227c-41ed-ad93-bec5eb2f368d.jpg?v=1703945823&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/5_10e92c70-227c-41ed-ad93-bec5eb2f368d.jpg?v=1703945823&width=700"
+    ]
   },
   {
-    
-    name: "Serpent Oversized - Acid Lime",
-    description:
-      "Sleek Minimalism: The Serpent  Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
-    category: "sweat-shirt",
-    total_reviews: 4,
-    avg_rating: 5,
-    price: 27.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "green",
-    size: ["XS", "S", "M", "L", "XL"],
-    image: [
+    "name": "Serpent Oversized - Acid Lime",
+    "description": "Sleek Minimalism: The Serpent  Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
+    "category": "sweat-shirt",
+    "total_reviews": 4,
+    "avg_rating": 5,
+    "price": 27.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "green",
+    "size": ["XS", "S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_2ae39644-61e1-4d94-91a1-ac77ce19178b.jpg?v=1703945757&width=700",
       "https://overlays.co/cdn/shop/files/2_01c9d024-6436-47ca-9d26-13bb2dd67026.jpg?v=1703945759&width=700",
       "https://overlays.co/cdn/shop/files/3_c45963e8-a9e2-4f00-a7e2-7cdb5dd63f4f.jpg?v=1703945757&width=700",
-      "https://overlays.co/cdn/shop/files/4_c9981515-91a3-48dd-91d6-ecaa0b19979a.jpg?v=1703945758&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/4_c9981515-91a3-48dd-91d6-ecaa0b19979a.jpg?v=1703945758&width=700"
+    ]
   },
   {
-    
-    name: "Digital Lavender",
-    description:
-      "There is no better sweatshirt than this Digital Lavender Unisex Oversized Sweatshirt. Make your look glam with sneakers and you're ready for the evening.",
-    category: "sweat-shirt",
-    total_reviews: 22,
-    avg_rating: 4.8,
-    price: 18.99,
-    discount: 20,
-    stock: 90,
-    purchase_count: 90,
-    color: "purple",
-    size: ["XS", "S", "M", "L", "XL"],
-    image: [
+    "name": "Digital Lavender",
+    "description": "There is no better sweatshirt than this Digital Lavender Unisex Oversized Sweatshirt. Make your look glam with sneakers and you're ready for the evening.",
+    "category": "sweat-shirt",
+    "total_reviews": 22,
+    "avg_rating": 4.8,
+    "price": 18.99,
+    "discount": 20,
+    "stock": 90,
+    "purchase_count": 90,
+    "color": "purple",
+    "size": ["XS", "S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/1_2730df88-3c24-4c2b-b425-0cf35bd4a3d8.jpg?v=1703945922&width=700",
       "https://overlays.co/cdn/shop/files/2_08b6d5b9-25e8-4968-843e-cd3d7ee9e84f.jpg?v=1703945923&width=700",
       "https://overlays.co/cdn/shop/files/3_c9dfaf0f-a39e-453a-a44e-b99c5783d365.jpg?v=1703945923&width=700",
-      "https://overlays.co/cdn/shop/files/4_c86718c3-ca5a-48c8-a070-d1a0c603d73a.jpg?v=1703945923&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/4_c86718c3-ca5a-48c8-a070-d1a0c603d73a.jpg?v=1703945923&width=700"
+    ]
   },
   {
-    
-    name: "Arise Oversized",
-    description:
-      "Live for street art. The Arise Fleece Unisex Oversized sweatshirt features digitally printed graffiti on it. It is made from fleece material, which will give you a stylish look when you dress it up with your favorite denim, sneakers, and sunglasses.",
-    category: "sweat-shirt",
-    total_reviews: 41,
-    avg_rating: 4.4,
-    price: 36.99,
-    discount: 20,
-    stock: 30,
-    purchase_count: 30,
-    color: "white",
-    size: ["S", "M", "L", "XL"],
-    image: [
+    "name": "Arise Oversized",
+    "description": "Live for street art. The Arise Fleece Unisex Oversized sweatshirt features digitally printed graffiti on it. It is made from fleece material, which will give you a stylish look when you dress it up with your favorite denim, sneakers, and sunglasses.",
+    "category": "sweat-shirt",
+    "total_reviews": 41,
+    "avg_rating": 4.4,
+    "price": 36.99,
+    "discount": 20,
+    "stock": 30,
+    "purchase_count": 30,
+    "color": "white",
+    "size": ["S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/GreyDragonPhoto_6.jpg?v=1713004432&width=700",
       "https://overlays.co/cdn/shop/files/GreyDragonPhoto_5.jpg?v=1713004432&width=700",
       "https://overlays.co/cdn/shop/files/GreyDragonPhoto_4.jpg?v=1713004432&width=700",
-      "https://overlays.co/cdn/shop/files/GreyDragonPhoto_9.jpg?v=1713004432&width=700",
-    ],
+      "https://overlays.co/cdn/shop/files/GreyDragonPhoto_9.jpg?v=1713004432&width=700"
+    ]
   },
   {
-    
-    name: "Raven Arise Oversized",
-    description:
-      'Erupt from the Neon Depths: Let this vibrant green "Arise" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term "relaxed" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.',
-    category: "sweat-shirt",
-    total_reviews: 12,
-    avg_rating: 4.6,
-    price: 39.99,
-    discount: 20,
-    stock: 45,
-    purchase_count: 45,
-    color: "black",
-    size: ["S", "M", "L", "XL"],
-    image: [
+    "name": "Raven Arise Oversized",
+    "description": "Erupt from the Neon Depths: Let this vibrant green \"Arise\" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term \"relaxed\" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.",
+    "category": "sweat-shirt",
+    "total_reviews": 12,
+    "avg_rating": 4.6,
+    "price": 39.99,
+    "discount": 20,
+    "stock": 45,
+    "purchase_count": 45,
+    "color": "black",
+    "size": ["S", "M", "L", "XL"],
+    "image": [
       "https://overlays.co/cdn/shop/files/4_8b37ed33-f8f5-4ba5-b7c2-7ac5b13dad25.jpg?v=1703946069&width=700",
       "https://overlays.co/cdn/shop/files/3_c21aea01-da0b-406d-b710-2da404b057ee.jpg?v=1703946069&width=700",
       "https://overlays.co/cdn/shop/files/1_bae10c18-e8fb-4f74-9ccc-97c8643515f9.jpg?v=1703946069&width=700",
-      "https://overlays.co/cdn/shop/files/5_1c3f8503-5a16-49e4-8b7b-fe7fe907a8f7.jpg?v=1703946069&width=700",
-    ],
-  },
-];
+      "https://overlays.co/cdn/shop/files/5_1c3f8503-5a16-49e4-8b7b-fe7fe907a8f7.jpg?v=1703946069&width=700"
+    ]
+  }
+]

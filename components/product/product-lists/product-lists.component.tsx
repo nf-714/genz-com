@@ -1,9 +1,9 @@
-import { getProducts } from "@/app/action";
 import { IProduct } from "@/types/types";
 import ProductCard from "../product-card/product-card.component";
 
 export default async function ProductLists() {
-  const products: IProduct[] = await getProducts();
+  const data: IProduct[] = await fetch(`${process.env.API_URL}/products`);
+  const products = await data.json();
 
   return (
     <>

@@ -2,7 +2,7 @@ import Categories from "@/components/landing/categories/categories.component";
 import HeroSection from "@/components/landing/hero/hero.component";
 import { VelocityScroll } from "@/components/magicui/scroll-based-velocity";
 
-export default function Home() {
+export default async function Home() {
   return (
     <>
       {" "}

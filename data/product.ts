@@ -1,8 +1,5 @@
 export const products: any = [
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7feff",
-    },
     name: "Guardian Wings Relaxed",
     description:
       "Command the skies with our Guardian Wings T-shirt, featuring majestic wings that embody protection and guidance, inspiring confidence and resilience. \n \n Relaxed Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Dove print. The term relaxed refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look. ",
@@ -23,9 +20,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff00",
-    },
     name: "The Yellow Bloom",
     description:
       "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed Experience the metamorphosis of change and freedom through our exclusive marigold design, where each petal whispers tales of liberation and transformation, adorning your t-shirt with unrivalled uniqueness.",
@@ -46,9 +40,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff01",
-    },
     name: "The Wild",
     description:
       "Where tigers roam, hearts beat wild. Find your roar. This tee features a magnificent tiger, a call to the wild, urging you to break free and chase your dreams with untamed passion. \n \n Relaxed fit t-shirt in black with a round neck rib and short sleeves. Contrast front and back HD and puff print in Dove print.",
@@ -69,9 +60,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff02",
-    },
     name: "The Beast",
     description:
       "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Explore print.",
@@ -93,9 +81,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff03",
-    },
     name: "Free Spirit",
     description:
       "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in orange with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Free Spirit print.",
@@ -116,9 +101,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff04",
-    },
     name: "Black Arc With Rexin Pocket",
     description:
       "Sleek Minimalism: The Black Arc Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
@@ -139,9 +121,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff05",
-    },
     name: "Blaze",
     description:
       "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in beige with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Blaze print.",
@@ -163,9 +142,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff06",
-    },
     name: "Fly High Relaxed",
     description:
       "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \nRelaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Bird print.",
@@ -186,9 +162,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff07",
-    },
     name: "Warrior Arc ",
     description:
       "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \nRelaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Explore print.",
@@ -209,9 +182,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff08",
-    },
     name: "Textured Heavy Weight Arise",
     description:
       'Erupt from the Neon Depths: Let this vibrant green "Arise" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term "relaxed" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.',
@@ -232,9 +202,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff09",
-    },
     name: "Raven Oversized Hoodies",
     description:
       "Embark on a transformative journey with our hoodie—step into a realm where comfort meets bold expression. Shed the ordinary, embrace the oversized fit, and unveil your unique style. Crafted with an inner lining, it's your cocoon of warmth on the path to self-discovery.",
@@ -255,9 +222,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff0a",
-    },
     name: "Diode Blue",
     description:
       "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
@@ -278,9 +242,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff0b",
-    },
     name: "Red Embossed Hoodie",
     description:
       "Command attention with our striking Bright Red Embossed Hoodie - a hue that ignites confidence and makes a bold statement. Embrace the vibrancy of this timeless color, adding an electrifying touch to your wardrobe.",
@@ -301,9 +262,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff0c",
-    },
     name: "Acid Embossed Hoodie",
     description:
       "Embrace vibrancy with our electrifying Neon Acid Lime hoodie featuring captivating embossed textures. Radiating boldness, this color energizes your style, ensuring you stand out with a striking and lively flair.",
@@ -324,9 +282,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff0d",
-    },
     name: "Buff Oversized Hoodies",
     description:
       "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
@@ -347,9 +302,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff0e",
-    },
     name: "Fox Grey Oversized",
     description:
       "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
@@ -370,9 +322,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff0f",
-    },
     name: "CoCoa Brown",
     description:
       "Dive into a sea of self-expression with our Cobalt Blue Oversized Hoodie. Embodying confidence and style in every thread. The oversized fit invites comfort, while the vibrant color reflects the essence of your unique journey. With a cozy, roomy silhouette and an electrifying presence, this hoodie is your canvas for making a statement.",
@@ -393,9 +342,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff10",
-    },
     name: "Raven Embossed Hoodies",
     description:
       "Unlock a style revolution with our Black Embossed Hoodie, designed to change the game. Infused with intricate details, it offers the freedom to express your unique flair while embracing comfort and bold sophistication.",
@@ -416,9 +362,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff11",
-    },
     name: "Mint Embossed",
     description:
       "Revel in serene sophistication with our Mint Embossed Hoodie. Infused with intricate embossed textures, this serene hue redefines casual elegance. Elevate your look with a refreshing twist, embodying both comfort and fashion-forward sophistication.",
@@ -439,9 +382,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff12",
-    },
     name: "Fire Oversized Hoodie - Orange",
     description:
       "Ignite your inner Freedom with our Fire Hoodie in striking orange and black. Crafted for bold self-expression, this hoodie combines warmth with a fierce design, making it the ultimate statement piece for those who dare to stand out.",
@@ -462,9 +402,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff13",
-    },
     name: "Slim Fit Raven Joggers",
     description:
       "Black joggers, the armour of the modern Black Knight. Soft yet strong, they offer comfort and support on your  Uncharted Territory.",
@@ -485,9 +422,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff14",
-    },
     name: "Deconstructed Raven joggers",
     description:
       "Explore the Universe in Black Joggers. Our black joggers are your portal to endless possibilities, a reminder to reach for the stars. Let these joggers be your launchpad, a foundation for your journey to greatness.",
@@ -508,9 +442,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff15",
-    },
     name: "Amber Joggers",
     description:
       "Don't blend in, stand out! Be the change you wish to see in a pair of these fiery orange joggers! Fuel your next adventure with effortless style. These joggers are designed for exploration and discovery, offering comfort and confidence on every step.",
@@ -531,9 +462,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff16",
-    },
     name: "Tilted Navy Joggers",
     description:
       "Confidence comes in all shades, and navy blue is yours. Don't underestimate the power of quiet confidence. Step into your stride with our navy joggers and let your actions speak volumes.",
@@ -554,9 +482,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff17",
-    },
     name: "Deconstructed Fawn Joggers",
     description:
       "The Minimalist Muse: Whisper your story with comfort, letting your legacy roar a little louder with every step.",
@@ -577,9 +502,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff18",
-    },
     name: "Slim fit Fawn Joggers",
     description:
       "Our beige joggers are your threads of freedom. Soft as a lioness's mane, they conquer any challenge. Let your actions roar, a testament to your quiet strength. These joggers are a catalyst for change, a foundation for your legacy's rise.",
@@ -600,9 +522,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff19",
-    },
     name: "Heavy Weight Fawn Joggers",
     description:
       "The Calming Catalyst: Beige Joggers for Focused Change. Our calming beige joggers invite inner peace and ignite your creative fire.",
@@ -623,9 +542,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff1a",
-    },
     name: "Heavy weight Brown Joggers",
     description:
       "Where comfort meets purpose. Slip into these earthy brown joggers and feel the difference. Be the change, the muse, the artist - all wrapped in earthy chic.",
@@ -646,9 +562,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff1b",
-    },
     name: "Heavy Weight Combat Black Joggers",
     description:
       "Live for street art. The Arise Fleece Unisex Oversized sweatshirt features digitally printed graffiti on it. It is made from fleece material, which will give you a stylish look when you dress it up with your favorite denim, sneakers, and sunglasses.",
@@ -669,9 +582,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff1c",
-    },
     name: "Tranquil Blue Fleece Joggers",
     description:
       'Erupt from the Neon Depths: Let this vibrant green "Arise" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term "relaxed" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.',
@@ -692,9 +602,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff1d",
-    },
     name: "Explore Black Sweatshirt",
     description:
       "Introducing our Black Lizard Alchemy Sweatshirt, where the intricate print embodies the metamorphosis of freedom and change. With each scale, embrace the untamed spirit within and redefine your journey with bold determination. Elevate your style with this unique garment, a symbolic ode to liberation and transformation on the canvas of black.",
@@ -715,9 +622,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff1e",
-    },
     name: "Courage Beige",
     description:
       "Soar with Courage. Channel the spirit of courage with our Courage Bird Oversized Sweatshirt. Each piece is a symbol of strength and determination, blending bold designs inspired by majestic birds for Freedom. Elevate your style with the fearless essence of our Courage Bird line, where fashion meets fortitude",
@@ -738,9 +642,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff1f",
-    },
     name: "Fierce Black",
     description:
       "Unleash the bold spirit within with our Black Rhino Ascent Sweatshirt, where the powerful print embodies the freedom to change. In the rhino's silhouette, discover the strength to forge a new path and redefine your journey. Elevate your wardrobe with this unique garment, a symbol of liberation and transformation in every thread.",
@@ -761,9 +662,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff20",
-    },
     name: "Fearless Navy",
     description:
       "Indulge in the epitome of comfort with our special cotton t-shirt, boasting a secret finish for an unparalleled luxurious fit. \n \n Relaxed fit t-shirt in black with a a round neck rib and short sleeves. Contrast front and back HD and puff print in Fearless Navy print.",
@@ -784,9 +682,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff21",
-    },
     name: "Triumph Grey",
     description:
       "A grey canvas of change and freedom. With the majestic lion print, embrace the courage to redefine your journey and express your untamed spirit. It's more than apparel; it's a visual anthem for those seeking liberation and transformation.",
@@ -807,9 +702,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff22",
-    },
     name: "Serpent Oversized ",
     description:
       "Sleek Minimalism: The Serpent  Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
@@ -830,9 +722,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff23",
-    },
     name: "Serpent Oversized - Acid Lime",
     description:
       "Sleek Minimalism: The Serpent  Oversized T-shirt with Rexin pocket embodies contemporary minimalism. The jet-black hue offers a crisp aesthetic, while the unique pocket adds a hint of unexpected detail.\n \nCommand attention with our neck arc detail embracing the essence of luxury, a subtle yet striking display of future fashion.",
@@ -853,9 +742,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff24",
-    },
     name: "Digital Lavender",
     description:
       "There is no better sweatshirt than this Digital Lavender Unisex Oversized Sweatshirt. Make your look glam with sneakers and you're ready for the evening.",
@@ -876,9 +762,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff25",
-    },
     name: "Arise Oversized",
     description:
       "Live for street art. The Arise Fleece Unisex Oversized sweatshirt features digitally printed graffiti on it. It is made from fleece material, which will give you a stylish look when you dress it up with your favorite denim, sneakers, and sunglasses.",
@@ -899,9 +782,6 @@ export const products: any = [
     ],
   },
   {
-    _id: {
-      $oid: "664620858ba75caaa4d7ff26",
-    },
     name: "Raven Arise Oversized",
     description:
       'Erupt from the Neon Depths: Let this vibrant green "Arise" tee be your beacon to the surface. The message propels you upwards, the soft cotton allows fluidity, and the relaxed fit fuels your ascent. \n\n The term "relaxed" refers to the fact that the t-shirt is intentionally designed to be a little larger than usual size, creating a comfortable look rather than a fitted look.',

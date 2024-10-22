@@ -8,6 +8,8 @@ import {
 } from "@/queries/products/products.queries";
 import { LoginSchema } from "@/schemas";
 
+import { products } from "@/data/product";
+import prisma from "@/lib/prisma";
 import { createUser, findUser } from "@/queries/user/user.queries";
 import { SignupSchema } from "@/schemas";
 import { IMongoProduct } from "@/types/types";
@@ -24,6 +26,17 @@ export const signInWithGooge = async () => {
 export const signOutAction = async () => {
   await signOut();
   //redirect("/login");
+};
+
+export const createProductBulks = async () => {
+  try {
+    const data = await prisma.product.createMany({ data: products });
+
+    return { success: "Product bulk created successfully" };
+  } catch (error) {
+    console.log(error);
+    return { error: "Error on creating product bulk" };
+  }
 };
 
 export const getProducts = async () => {
@@ -46,7 +59,7 @@ export const loginUser = async (values: z.infer<typeof LoginSchema>) => {
   }
   try {
     const result = await signIn("credentials", values);
-    return result;
+    return { success: "Login Successfully" };
   } catch {
     return { error: "Invalid credentials" };
   }
