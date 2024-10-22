@@ -30,7 +30,7 @@ export const signOutAction = async () => {
 
 export const createProductBulks = async () => {
   try {
-    const data = await prisma.product.createMany({ data: products });
+    await prisma.product.createMany({ data: products });
 
     return { success: "Product bulk created successfully" };
   } catch (error) {
@@ -58,7 +58,7 @@ export const loginUser = async (values: z.infer<typeof LoginSchema>) => {
     return { error: "Invalid fields!" };
   }
   try {
-    const result = await signIn("credentials", values);
+    await signIn("credentials", values);
     return { success: "Login Successfully" };
   } catch {
     return { error: "Invalid credentials" };

@@ -11,7 +11,7 @@ export default async function ProductDetails({ id }: { id: string }) {
   /*
   const cart = useCartStore((state) => state.products);
   console.log(cart);
-  */
+  
   const handleClickAddToCart = () => {
     const product = {
       id: id,
@@ -22,8 +22,8 @@ export default async function ProductDetails({ id }: { id: string }) {
     /*
     const addProductToCart = useCartStore((state) => {
       state.addProduct(product);
-    });*/
-  };
+    });
+  };*/
 
   return (
     <div className="min-h-screen text-white">
