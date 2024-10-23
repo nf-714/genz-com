@@ -2,7 +2,7 @@ import { IProduct } from "@/types/types";
 import ProductCard from "../product-card/product-card.component";
 
 export default async function ProductLists() {
-  const data: IProduct[] = await fetch(`${process.env.API_URL}/products`);
+  const data = await fetch(`${process.env.API_URL}/products`);
   const products = await data.json();
 
   return (

@@ -4,7 +4,7 @@ import Product from "@/models/products/products.model";
 export const getAllProducts = async () => {
   try {
     const products = await Product.find().lean().exec();
-    console.log(Product.products);
+    console.log(products);
     return products;
   } catch (err) {
     console.log("Error fetching products", err);
