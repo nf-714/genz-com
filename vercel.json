@@ -1,5 +1,6 @@
 {
   "build": {
-    "commands": ["npm install", "npm run prisma generate"]
+    "src": "package.json",
+    "use": "@vercel/node"
   }
 }
