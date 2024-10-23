@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postinstall": "prisma generate",
+    "prisma-build": "prisma generate && <actual-build-command>"
   },
   "dependencies": {
     "@auth/mongodb-adapter": "^3.5.2",
@@ -43,6 +45,7 @@
     "next-auth": "^5.0.0-beta.21",
     "next-theme": "^0.1.5",
     "next-themes": "^0.3.0",
+    "postinstall": "^0.7.5",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.53.0",
